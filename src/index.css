@@ -242,11 +242,12 @@ main {
 }
 
 .filtros .campo {
-    display: flex;
+    
     align-items: center;
     gap: 2rem;
 }
 .filtros label {
+   
     font-size: 3rem;
     font-weight: 900;
     color: var(--gris-oscuro);
@@ -273,7 +274,7 @@ main {
 }
 
 .gasto {
-    display: flex;
+  
     justify-content: space-between;
     align-items: center;
     gap: 2rem;
